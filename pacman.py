@@ -659,7 +659,7 @@ def runGames( layout, pacman, ghosts, display, numGames, record, numTraining = 0
 
     return games
 
-if __name__ == '__main__':
+if __name__ == '__main__': 
     """
     The main function called when pacman.py is run
     from the command line:
